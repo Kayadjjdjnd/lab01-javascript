@@ -9,7 +9,7 @@
 ## Инструкции по запуску
 
 1. Скачать или клонировать репозиторий:
-git clone https://github.com/Emilia/lab01-javascript.git
+git clone https://github.com/Kayadjjdjnd/lab01-javascript.git
 2. Открыть файл `index.html` в любом браузере (двойной клик)
 3. В браузере появится всплывающее окно — нажать ОК
 4. Открыть консоль разработчика (F12 → Console) для просмотра вывода
