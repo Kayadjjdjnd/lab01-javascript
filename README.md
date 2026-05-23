@@ -42,8 +42,8 @@ lab01/
 
 Объявление переменных:
 ```js
-let name = "Иван";
-let birthYear = 2003;
+let name = "Эмилия";
+let birthYear = 2005;
 let isStudent = true;
 console.log(name, birthYear, isStudent);
 ```
